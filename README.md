@@ -4,14 +4,14 @@
   <p align="center">
     
     
-<a href="#"><img title="LIZA MWOL" src="https://img.shields.io/badge/LIZA MWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DIYA MWOL" src="https://img.shields.io/badge/DIYA MWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href=https://github.com/Chunkindepadayali"><img title="Author" src="https://img.shields.io/badge/Author-(hunk!nd3 p4d4y41!-LIZAMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href=https://github.com/Its-me-Diya"><img title="Author" src="https://img.shields.io/badge/Author-(diyamwol-diyamwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> to make it public
+Project created by <a href="https://github.com/Its-me-Diya">DIYA MWOL</a> to make it public
     <br>
        | © |
         Reserved |
@@ -23,16 +23,16 @@ Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> 
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chunkindepadayali/LIZA-MWOL) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Its-me-Diya/LIZA-MWOL) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@chunkindepadayali/LizaMwol?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Its-me-Diya/DIYA-MWOL?v=1)
   
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Chunkindepadayali/LIZA-MWOL
+$ git clone https://github.com/Its-me-Diya/LIZA-MWOL
 $ cd LIZA-MWOL
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -41,7 +41,7 @@ $ node Liza.js
       
 ```js
 SETUP
-$ git clone https://github.com/Chunkindepadayali/LIZA-MWOL
+$ git clone https://github.com/Its-me-Diya/LIZA-MWOL
 $ cd LIZA-MWOL
 $ npm i
 $ node Liza.js
@@ -50,29 +50,29 @@ $ node Liza.js
 ----
 
   <p align="center">
-  <a href="https://github.com/Chunkindepadayali/LIZA-MWOL">
+  <a href="https://github.com/Its-me-Diya/LIZA-MWOL">
     
-<a href="https:https://github.com/Chunkindepadayali?tab=followers">
-<img src="https://img.shields.io/github/repo-size/Chunkindepadayali/LIZA-MWOL?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https:https://github.com/Its-me-Diya?tab=followers">
+<img src="https://img.shields.io/github/repo-size/Its-me-Diya/LIZA-MWOL?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Chunkindepadayali/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/Chunkindepadayali?color=blue&style=flat-square"></a>
-<a href="https://github.com/Chunkindepadayali/LIZA-MWOL/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Chunkindepadayali/LIZA-MWOL?color=blue&style=flat-square"></a>
-<a href="https://github.com/Chunkindepadayali/LIZA-MWOL/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Chunkindepadayali/LIZA-MWOL?color=blue&style=flat-square"></a>
-<a href="https://github.com/Chunkindepadayali/LIZA-MWOL/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Chunkindepadayali/LIZA-MWOL?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Its-me-Diya/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/Its-me-Diya?color=blue&style=flat-square"></a>
+<a href="https://github.com/Its-me-Diya/LIZA-MWOL/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Its-me-Diya/LIZA-MWOL?color=blue&style=flat-square"></a>
+<a href="https://github.com/Its-me-Diya/LIZA-MWOL/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Its-me-Diya/LIZA-MWOL?color=blue&style=flat-square"></a>
+<a href="https://github.com/Its-me-Diya/LIZA-MWOL/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Its-me-Diya/LIZA-MWOL?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 <p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chunkindepadayali&show_icons=true&theme=dark&locale=en" alt="Chunkindepadayali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Its-me-Diya&show_icons=true&theme=dark&locale=en" alt="Its-me-Diya" /></p>
     
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Chunkindepadayali/LIZA-MWOL/blob/master/WhatsAsena.png)](https://chat.whatsapp.com/BRPbS6JHUoCE480MpLLM5z)
+  [![join](https://github.com/Its-me-Diya/LIZA-MWOL/blob/master/WhatsAsena.png)](https://chat.whatsapp.com/KmKMc9uEYyWGpJZw2QnmIZ)
   <div align="center">
        
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chunkindepadayali&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Its-me-Diya&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
   </div>
  
   
@@ -89,9 +89,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-[![Chunkindepadayali](https://github.com/Chunkindepadayali.png?size=100)](https://github.com/Chunkindepadayali) | [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+[![Its-me-Diya](https://github.com/Its-me-Diya.png?size=100)](https://github.com/Its-me-Diya) | [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----|----
-[Chunkindepadayali](https://github.com/Chunkindepadayali) | [farhan-dqz](https://github.com/farhan-dqz) | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[Its-me-Diya](https://github.com/Its-me-Diya) | [farhan-dqz](https://github.com/farhan-dqz) | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Modifiying as public | Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
