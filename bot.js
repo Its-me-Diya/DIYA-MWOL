@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Liza Mwol working!')
+            chalk.green.bold('✅ DIYA MWOL working!')
         );
     });
     
@@ -261,8 +261,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝐋𝐈𝐙𝐀 𝐌𝐖𝐎𝐋࿐ ~______~*' +
-                                    '\n\n*🚫 ' + error + '*\n\n```Report errors\njoin https://chat.whatsapp.com/BRPbS6JHUoCE480MpLLM5z```'
+                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝙳𝙸𝚈𝙰 𝙼𝚆𝙾𝙻࿐ ~______~*' +
+                                    '\n\n*🚫 ' + error + '*\n\n```Report errors\njoin https://chat.whatsapp.com/KmKMc9uEYyWGpJZw2QnmIZ```'
                                     , MessageType.text);
                             }
                         }
