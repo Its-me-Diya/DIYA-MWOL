@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/Its-me-Diya">DIYA MWOL</a> to mak
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Its-me-Diya/DIYA-MWOL) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Its-me-Diya/DIYA-MWOL?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MuhammedAnshid/Diya-Mwol?v=1)
   
 ### The Hard Method
 ```js
