@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/Its-me-Diya">DIYA MWOL</a> to mak
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Its-me-Diya/LIZA-MWOL) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Its-me-Diya/DIYA-MWOL) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Its-me-Diya/DIYA-MWOL?v=1)
   
@@ -32,34 +32,34 @@ Project created by <a href="https://github.com/Its-me-Diya">DIYA MWOL</a> to mak
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Its-me-Diya/LIZA-MWOL
-$ cd LIZA-MWOL
+$ git clone https://github.com/Its-me-Diya/DIYA-MWOL
+$ cd DIYA-MWOL
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node Liza.js
+$ node Diya.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/Its-me-Diya/LIZA-MWOL
-$ cd LIZA-MWOL
+$ git clone https://github.com/Its-me-Diya/DIYA-MWOL
+$ cd DIYA-MWOL
 $ npm i
-$ node Liza.js
+$ node Diya.js
 ```
 
 ----
 
   <p align="center">
-  <a href="https://github.com/Its-me-Diya/LIZA-MWOL">
+  <a href="https://github.com/Its-me-Diya/DIYA-MWOL">
     
 <a href="https:https://github.com/Its-me-Diya?tab=followers">
-<img src="https://img.shields.io/github/repo-size/Its-me-Diya/LIZA-MWOL?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/Its-me-Diya/DIYA-MWOL?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Its-me-Diya/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Its-me-Diya?color=blue&style=flat-square"></a>
-<a href="https://github.com/Its-me-Diya/LIZA-MWOL/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Its-me-Diya/LIZA-MWOL?color=blue&style=flat-square"></a>
-<a href="https://github.com/Its-me-Diya/LIZA-MWOL/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Its-me-Diya/LIZA-MWOL?color=blue&style=flat-square"></a>
-<a href="https://github.com/Its-me-Diya/LIZA-MWOL/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Its-me-Diya/LIZA-MWOL?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Its-me-Diya/DIYA-MWOL/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Its-me-Diya/DIYA-MWOL?color=blue&style=flat-square"></a>
+<a href="https://github.com/Its-me-Diya/DIYA-MWOL/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Its-me-Diya/DIYA-MWOL?color=blue&style=flat-square"></a>
+<a href="https://github.com/Its-me-Diya/DIYA-MWOL/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Its-me-Diya/DIYA-MWOL?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ $ node Liza.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Its-me-Diya/LIZA-MWOL/blob/master/WhatsAsena.png)](https://chat.whatsapp.com/KmKMc9uEYyWGpJZw2QnmIZ)
+  [![join](https://github.com/Its-me-Diya/DIYA-MWOL/blob/master/WhatsAsena.png)](https://chat.whatsapp.com/KmKMc9uEYyWGpJZw2QnmIZ)
   <div align="center">
        
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Its-me-Diya&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
